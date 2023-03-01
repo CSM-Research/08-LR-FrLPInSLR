@@ -1,0 +1,1 @@
+Essa versão coleta estudos de 4 bases de dados e usa uma string de busca para coletar estudos secundários. No entanto, decidimos não seguir com essa ideia, pois levanta muitas dúvidas na banca sobre o rigor desses estudos ao seguir as guidelines. Então na proxima iteração vamos seguir buscando estudos do JSS e IST.
